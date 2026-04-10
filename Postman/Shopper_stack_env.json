@@ -1,0 +1,46 @@
+{
+	"id": "75999272-1096-442b-bd94-a60989d0ff88",
+	"name": "Shopperstack_env",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://www.shoppersstack.com/shopping",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "shopperId",
+			"value": "384537",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shopperEmail",
+			"value": "blahh@gmail.com",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shopperPwd",
+			"value": "secret@123",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJibGFoaEBnbWFpbC5jb20gU0hPUFBFUiIsImV4cCI6MTc3NTgzNTM1NywiaWF0IjoxNzc1Nzk5MzU3fQ.cNeRcEmMHzn3g8fifw9LCsg3tfj0B7pTINdQAbu8LTU",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressId",
+			"value": 153231,
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-10T07:36:50.616Z",
+	"_postman_exported_using": "Postman/12.5.5"
+}
